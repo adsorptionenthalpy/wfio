@@ -1,4 +1,4 @@
-# WrappedFIO ERC20 Contract (OpenZeppelin 3.4.0)
+# WrappedFIO ERC20 Contract
 
 ### Prerequisites 
 - NPM 6.4.11
