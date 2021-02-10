@@ -8,7 +8,7 @@ contract WFIO is ERC20 {
 
     constructor(uint256 _initialSupply) public ERC20("FIO Protocol", "wFIO") {
         _mint(msg.sender, _initialSupply);
-        _setupDecimals(9); // Sets PCTs as integers only
+        _setupDecimals(9);
         owner = msg.sender;
     }
 
